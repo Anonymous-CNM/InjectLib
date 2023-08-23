@@ -142,7 +142,7 @@ PD 19 说明与注意事项:<br>
 
 如果遇到此问题:
 
-<img src="readme/image-20230822212120839.png" alt="image-20230822212120839" style="zoom:50%;margin-left:0cm;" />
+<img src="readme/image-20230822212120839.png" alt="image-20230822212120839" style="zoom:50%;margin-left:0cm;max-width: 50%;" />
 
 请去 `隐私与安全性` -> `App管理` 将 `启动_PD` 设置为开启.后面便可正常运行.
 
